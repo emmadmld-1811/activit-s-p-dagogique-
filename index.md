@@ -16,9 +16,9 @@ Ce portfolio rassemble des exemples d’activités, leurs objectifs et les trace
 
 ## Activités pédagogiques 
 
-### 01 · Jeu de famille
+### 01 · Escape Game 
 
- **Objectif :** Savoir maitriser le vocabulaire spécifique au hardware, au software et au réseau.
+ **Objectif :** Savoir maitriser le vocabulaire spécifique au hardware, au software et aux logiciels. 
 
  **Public ciblé :** S1 
 
@@ -28,7 +28,7 @@ Cette activité fonctionne sous forme de mission pour arriver à un résultat fi
 
 En téléchargeant ce lien.... vous y trouverez tout le jeu avec les missions et le contenu. 
 
-Ensuite pour que le jeu ce déroule correctement, j'ai imaginé des règles que vous pouvez trouvez ci-joint.....
+Ensuite pour que le jeu ce déroule correctement, j'ai imaginé une fiche technique que vous pouvez trouvez ci-joint.....
 
          
 
