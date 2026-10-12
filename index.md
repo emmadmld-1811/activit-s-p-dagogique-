@@ -20,7 +20,7 @@ Ce portfolio rassemble des exemples d’activités, leurs objectifs et les trace
 
  **Objectif :** Savoir maitriser le vocabulaire spécifique au hardware, au software et aux logiciels. 
 
- **Public ciblé :** S1 
+ **Public ciblé :** 1ère secondaire 
 
  **Type d'activité :** Mémorisation, synthèse 
 
