@@ -20,7 +20,7 @@ Ce portfolio rassemble des exemples d’activités, leurs objectifs et les trace
 
 ### 01 · Escape Game 
 
- **Objectif :** Savoir maitriser le vocabulaire spécifique au hardware, au software et aux logiciels. 
+ **Objectif :** Savoir maitriser le vocabulaire spécifique à l'informatique : hardware, software, système d'exploitation, mémoire vive, mémoire morte, logiciel. 
 
  **Public ciblé :** 1ère secondaire 
 
