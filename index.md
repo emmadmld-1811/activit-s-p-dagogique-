@@ -23,6 +23,7 @@ Ce portfolio rassemble des exemples d’activités, leurs objectifs et les trace
  **Objectif :** Savoir maîtriser le vocabulaire spécifique à l'informatique : hardware, software, système d'exploitation, mémoire vive, mémoire morte, logiciel. 
 
 **Durée :** 45 à 60 minutes 
+
  **Public ciblé :** 1ère secondaire 
 
  **Type d'activité :** Mémorisation, synthèse 
