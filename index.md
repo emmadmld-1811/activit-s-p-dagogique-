@@ -33,20 +33,15 @@ Afin que le jeu se déroule correctement, j'ai imaginé un guide enseignant avec
 
 [📄 Télécharger le guide enseignant et son corrigé (PDF)](https://github.com/emmadmld-1811/activites-pedagogique-/blob/main/activit%C3%A9%201/Guide%20enseignant%20-%20activit%C3%A9%201.pdf)
 
-[Modifier le guide enseignant (ODT)](https://github.com/emmadmld-1811/activites-pedagogique-numerique/blob/main/activit%C3%A9%201/Guide%20enseignant%20-%20activit%C3%A9%201.odt)
-
-
 [Télécharger le guide enseignant (ODT)](https://github.com/emmadmld-1811/activites-pedagogique-numerique/raw/refs/heads/main/activit%C3%A9%201/Guide%20enseignant%20-%20activit%C3%A9%201.odt)
-
-
 
 Ensuite, en téléchargeant ce lien vous trouverez le support élève avec les différentes missions.
 
-[Consulter le support élève (PDF)](https://github.com/emmadmld-1811/activites-pedagogique-numerique/blob/main/Support%20%C3%A9l%C3%A8ve%20-%20activit%C3%A9%201%20.drawio.pdf)
+[Télécharger le support élève et les cartes (PDF)](https://github.com/emmadmld-1811/activites-pedagogique-numerique/raw/refs/heads/main/activit%C3%A9%201/Support%20%C3%A9l%C3%A8ve%20-%20activit%C3%A9%201%20.drawio.pdf)
 
 Pour finir, ce lien vous dirige vers les cartes à découpées pour le déroulement de l'activité. 
 
-[Télécharger les cartes à découper (PDF)](https://github.com/emmadmld-1811/activites-pedagogique-numerique/blob/main/Cartes%20%C3%A0%20d%C3%A9coup%C3%A9es%20-%20activit%C3%A9%201%20.drawio.pdf)
+[Télécharger les cartes à découper (PDF)](https://github.com/emmadmld-1811/activites-pedagogique-numerique/raw/refs/heads/main/activit%C3%A9%201/Cartes%20%C3%A0%20d%C3%A9coup%C3%A9es%20-%20activit%C3%A9%201%20.drawio.pdf)
 
 [Modifier le support élève et les cartes](https://github.com/emmadmld-1811/activites-pedagogique-numerique/blob/main/activit%C3%A9%201/Support%20complet%20-%20activit%C3%A9%201%20.drawio)
 
