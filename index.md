@@ -33,7 +33,7 @@ Afin que le jeu se déroule correctement, j'ai imaginé un guide enseignant avec
 
 [📄 Télécharger le guide enseignant et son corrigé (PDF)](https://github.com/emmadmld-1811/activites-pedagogique-/blob/main/activit%C3%A9%201/Guide%20enseignant%20-%20activit%C3%A9%201.pdf)
 
-[Télécharger le guide enseignant (ODT)](https://github.com/emmadmld-1811/activites-pedagogique-numerique/raw/refs/heads/main/activit%C3%A9%201/Guide%20enseignant%20-%20activit%C3%A9%201.odt)
+[Télécharger le guide enseignant modifiable (ODT)](https://github.com/emmadmld-1811/activites-pedagogique-numerique/raw/refs/heads/main/activit%C3%A9%201/Guide%20enseignant%20-%20activit%C3%A9%201.odt)
 
 Ensuite, en téléchargeant ce lien vous trouverez le support élève avec les différentes missions.
 
