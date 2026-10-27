@@ -20,17 +20,19 @@ Ce portfolio rassemble des exemples d’activités, leurs objectifs et les trace
 
 ### 01 · Escape Game 
 
- **Objectif :** Savoir maitriser le vocabulaire spécifique à l'informatique : hardware, software, système d'exploitation, mémoire vive, mémoire morte, logiciel. 
+ **Objectif :** Savoir maîtriser le vocabulaire spécifique à l'informatique : hardware, software, système d'exploitation, mémoire vive, mémoire morte, logiciel. 
 
+**Durée :** 45 à 60 minutes 
  **Public ciblé :** 1ère secondaire 
 
  **Type d'activité :** Mémorisation, synthèse 
+ 
 
 Cette activité fonctionne sous forme de mission pour arriver à un résultat final. 
 
 En téléchargeant ce lien.... vous y trouverez tout le jeu avec les missions et le contenu. 
 
-Ensuite pour que le jeu ce déroule correctement, j'ai imaginé une fiche technique que vous pouvez trouvez ci-joint.....
+Ensuite pour que le jeu se déroule correctement, j'ai imaginé un guide enseignant que vous pouvez trouver ci-joint.....
 
          
 
