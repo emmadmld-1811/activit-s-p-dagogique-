@@ -30,7 +30,9 @@ Ce portfolio rassemble des exemples d’activités, leurs objectifs et les trace
 
 Cette activité fonctionne sous forme de mission pour arriver à un résultat final. 
 
-En téléchargeant ce lien.... vous y trouverez tout le jeu avec les missions et le contenu. 
+En téléchargeant ces liens  https://github.com/emmadmld-1811/activites-pedagogique-/blob/main/activit%C3%A9%201/Cartes%20%C3%A0%20d%C3%A9coup%C3%A9es%20-%20activit%C3%A9%201%20.drawio.pdf 
+
+vous y trouverez tout le jeu avec les missions et le contenu. 
 
 Ensuite pour que le jeu se déroule correctement, j'ai imaginé un guide enseignant que vous pouvez trouver ci-joint.....
 
